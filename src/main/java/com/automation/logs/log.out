@@ -1,0 +1,104 @@
+2022-05-15 13:05:743 INFO  ManageDriver :27 - Launching Chrome Browser
+2022-05-15 13:05:772 INFO  HomePage :43 - Clicking on Sign in Link 
+2022-05-15 13:05:841 INFO  SignInPage :74 - Entering email 899harry@gmail.com
+2022-05-15 13:05:993 INFO  SignInPage :79 - Clicking on create Account button 
+2022-05-15 13:05:91 INFO  CreateAccountPage :69 - Clicking on male radio button. 
+2022-05-15 13:05:388 INFO  CreateAccountPage :73 - Entering First Name: Harry
+2022-05-15 13:05:495 INFO  CreateAccountPage :77 - Entering Last Name: Patel
+2022-05-15 13:05:590 INFO  CreateAccountPage :81 - Entering Password: Test123
+2022-05-15 13:05:690 INFO  CreateAccountPage :85 - Entering Address: 10 Shiv Krupa
+2022-05-15 13:05:803 INFO  CreateAccountPage :89 - Entering city: San Diego
+2022-05-15 13:05:990 INFO  CreateAccountPage :101 - Selecting State: California
+2022-05-15 13:05:108 INFO  CreateAccountPage :97 - Entering PostCode: 91942
+2022-05-15 13:05:206 INFO  CreateAccountPage :93 - Selecting Country: United States
+2022-05-15 13:05:260 INFO  CreateAccountPage :105 - Entering Mobile Number: 09192587945
+2022-05-15 13:05:372 INFO  CreateAccountPage :109 - Entering Alias: Harry22@shiv.com
+2022-05-15 13:05:481 INFO  CreateAccountPage :113 - Clicking on register button. 
+2022-05-15 13:05:777 INFO  CreateAccountPage :117 - Getting successful registration text: MY ACCOUNT
+2022-05-15 13:05:631 INFO  ManageDriver :27 - Launching Chrome Browser
+2022-05-15 13:05:218 INFO  HomePage :43 - Clicking on Sign in Link 
+2022-05-15 13:05:784 INFO  SignInPage :84 - Getting Authentication text: AUTHENTICATION
+2022-05-15 13:05:546 INFO  ManageDriver :27 - Launching Chrome Browser
+2022-05-15 13:05:825 INFO  HomePage :43 - Clicking on Sign in Link 
+2022-05-15 13:05:299 INFO  SignInPage :57 - Entering Email Addrsss: 
+2022-05-15 13:05:382 INFO  SignInPage :62 - Entering Passowrd: 123456
+2022-05-15 13:05:528 INFO  SignInPage :67 - Clicking on signIn Button. 
+2022-05-15 13:05:455 INFO  SignInPage :104 - Getting error message for invalid credentials: There is 1 error
+An email address required.
+2022-05-15 13:05:244 INFO  ManageDriver :27 - Launching Chrome Browser
+2022-05-15 13:05:711 INFO  HomePage :43 - Clicking on Sign in Link 
+2022-05-15 13:05:351 INFO  SignInPage :57 - Entering Email Addrsss: abcd@gmail.com
+2022-05-15 13:05:496 INFO  SignInPage :62 - Entering Passowrd: 
+2022-05-15 13:05:591 INFO  SignInPage :67 - Clicking on signIn Button. 
+2022-05-15 13:05:698 INFO  SignInPage :104 - Getting error message for invalid credentials: There is 1 error
+Password is required.
+2022-05-15 13:05:488 INFO  ManageDriver :27 - Launching Chrome Browser
+2022-05-15 13:05:834 INFO  HomePage :43 - Clicking on Sign in Link 
+2022-05-15 13:05:271 INFO  SignInPage :57 - Entering Email Addrsss: adfdfgfg
+2022-05-15 13:05:402 INFO  SignInPage :62 - Entering Passowrd: 123456
+2022-05-15 13:05:509 INFO  SignInPage :67 - Clicking on signIn Button. 
+2022-05-15 13:05:716 INFO  SignInPage :104 - Getting error message for invalid credentials: There is 1 error
+Invalid email address.
+2022-05-15 13:05:509 INFO  ManageDriver :27 - Launching Chrome Browser
+2022-05-15 13:05:769 INFO  HomePage :43 - Clicking on Sign in Link 
+2022-05-15 13:05:68 INFO  SignInPage :57 - Entering Email Addrsss: abcd@gmail.com
+2022-05-15 13:05:202 INFO  SignInPage :62 - Entering Passowrd: 123456
+2022-05-15 13:05:308 INFO  SignInPage :67 - Clicking on signIn Button. 
+2022-05-15 13:05:96 INFO  SignInPage :104 - Getting error message for invalid credentials: There is 1 error
+Authentication failed.
+2022-05-15 13:05:886 INFO  ManageDriver :27 - Launching Chrome Browser
+2022-05-15 13:05:300 INFO  HomePage :43 - Clicking on Sign in Link 
+2022-05-15 13:05:734 INFO  SignInPage :57 - Entering Email Addrsss: harry28@gmail.com
+2022-05-15 13:05:909 INFO  SignInPage :62 - Entering Passowrd: Test123
+2022-05-15 13:05:23 INFO  SignInPage :67 - Clicking on signIn Button. 
+2022-05-15 13:05:798 INFO  SignInPage :94 - Checking signout link is displayed. true
+2022-05-15 13:05:92 INFO  ManageDriver :27 - Launching Chrome Browser
+2022-05-15 13:05:835 INFO  HomePage :43 - Clicking on Sign in Link 
+2022-05-15 13:05:850 INFO  SignInPage :57 - Entering Email Addrsss: harry28@gmail.com
+2022-05-15 13:05:34 INFO  SignInPage :62 - Entering Passowrd: Test123
+2022-05-15 13:05:174 INFO  SignInPage :67 - Clicking on signIn Button. 
+2022-05-15 13:05:625 INFO  SignInPage :99 - Clicking on signout link. 
+2022-05-15 13:05:595 INFO  HomePage :48 - Verifying signIn is displayed: true
+2022-05-15 13:05:519 INFO  ManageDriver :27 - Launching Chrome Browser
+2022-05-15 13:05:523 INFO  HomePage :39 - Clicking on Women Tab. 
+2022-05-15 13:05:58 INFO  WomenCategoryPage :26 - Verifying Women text: Women
+2022-05-15 13:05:938 INFO  ManageDriver :27 - Launching Chrome Browser
+2022-05-15 13:05:847 INFO  HomePage :39 - Clicking on Women Tab. 
+2022-05-15 13:05:446 INFO  ProductPage :64 - Selecting Product: Blouse
+2022-05-15 13:05:213 INFO  ProductPage :93 - Clearing the quantity. 
+2022-05-15 13:05:250 INFO  ProductPage :96 - Adding the quantity: 2
+2022-05-15 13:05:299 INFO  ProductPage :102 - Selecting the size: M
+2022-05-15 13:05:404 INFO  ProductPage :73 - Clicking on White Colour: White
+2022-05-15 13:05:500 INFO  ProductPage :108 - Clicking on Add to Cart Button. 
+2022-05-15 13:05:568 INFO  ProductPage :113 - Verifying Add to cart message: Product successfully added to your shopping cart
+2022-05-15 13:05:627 INFO  ProductPage :119 - Closing pop up window. 
+2022-05-15 13:05:946 INFO  ManageDriver :27 - Launching Chrome Browser
+2022-05-15 13:05:00 INFO  HomePage :39 - Clicking on Women Tab. 
+2022-05-15 13:05:500 INFO  ProductPage :64 - Selecting Product: Printed Dress
+2022-05-15 13:05:977 INFO  ProductPage :93 - Clearing the quantity. 
+2022-05-15 13:05:05 INFO  ProductPage :96 - Adding the quantity: 3
+2022-05-15 13:05:55 INFO  ProductPage :102 - Selecting the size: L
+2022-05-15 13:05:156 INFO  ProductPage :77 - Clicking on Orange Colour: Orange
+2022-05-15 13:05:240 INFO  ProductPage :108 - Clicking on Add to Cart Button. 
+2022-05-15 13:05:325 INFO  ProductPage :113 - Verifying Add to cart message: Product successfully added to your shopping cart
+2022-05-15 13:05:377 INFO  ProductPage :119 - Closing pop up window. 
+2022-05-15 13:05:226 INFO  ManageDriver :27 - Launching Chrome Browser
+2022-05-15 13:05:868 INFO  HomePage :39 - Clicking on Women Tab. 
+2022-05-15 13:05:779 INFO  ProductPage :64 - Selecting Product: Printed Chiffon Dress
+2022-05-15 13:05:125 INFO  ProductPage :93 - Clearing the quantity. 
+2022-05-15 13:05:151 INFO  ProductPage :96 - Adding the quantity: 4
+2022-05-15 13:05:192 INFO  ProductPage :102 - Selecting the size: S
+2022-05-15 13:05:235 INFO  ProductPage :81 - Clicking on Green Colour: Green
+2022-05-15 13:05:338 INFO  ProductPage :108 - Clicking on Add to Cart Button. 
+2022-05-15 13:05:448 INFO  ProductPage :113 - Verifying Add to cart message: Product successfully added to your shopping cart
+2022-05-15 13:05:508 INFO  ProductPage :119 - Closing pop up window. 
+2022-05-15 13:05:389 INFO  ManageDriver :27 - Launching Chrome Browser
+2022-05-15 13:05:89 INFO  HomePage :39 - Clicking on Women Tab. 
+2022-05-15 13:05:996 INFO  ProductPage :64 - Selecting Product: Printed Summer Dress
+2022-05-15 13:05:56 INFO  ProductPage :93 - Clearing the quantity. 
+2022-05-15 13:05:82 INFO  ProductPage :96 - Adding the quantity: 2
+2022-05-15 13:05:124 INFO  ProductPage :102 - Selecting the size: M
+2022-05-15 13:05:246 INFO  ProductPage :85 - Clicking on Blue Colour: Blue
+2022-05-15 13:05:363 INFO  ProductPage :108 - Clicking on Add to Cart Button. 
+2022-05-15 13:05:441 INFO  ProductPage :113 - Verifying Add to cart message: Product successfully added to your shopping cart
+2022-05-15 13:05:484 INFO  ProductPage :119 - Closing pop up window. 
